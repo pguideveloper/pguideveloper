@@ -1,6 +1,6 @@
 ### 👋 Hey, I'm Pedro Henrique Guimarães
 
-🌐 Full-Stack Developer | 💻 JavaScript Enthusiast
+🌐 Full-Stack Developer
 
 📆 **Age:** 27
 
