@@ -2,11 +2,11 @@
 
 🌐 Full-Stack Developer
 
-📆 **Age:** 27
+📆 **Age:** 28
 
-🚀 **Experience:** Over 8 years in the tech industry
+🚀 **Experience:** Over 9 years in the tech industry
 
-🏢 **Previous Work:** Contributed to major projects for renowned Brazilian companies, including Jornal Estadão and Editora Abril. Currently collaborating with global organizations.
+🏢 **Work:** Contributed to major projects for renowned Brazilian companies, including Jornal Estadão and Editora Abril. Currently collaborating with global organizations.
 
 🛠️ **Skills:** JavaScript, Node.js, React.js, Automated Testing, Next.js, Relational and Non-Relational Databases
 
