@@ -2,9 +2,9 @@
 
 🌐 Full-Stack Developer
 
-📆 **Age:** 28
+📆 **Age:** 30
 
-🚀 **Experience:** Over 9 years in the tech industry
+🚀 **Experience:** Over 12 years in the tech industry
 
 🏢 **Work:** Contributed to major projects for renowned Brazilian companies, including Jornal Estadão and Editora Abril. Currently collaborating with global organizations.
 
